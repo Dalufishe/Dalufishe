@@ -1,5 +1,5 @@
 <h1 align="center">嗨 👋, 我是 Dalufishe</h1>
-<h3 align="center">坐在電腦桌前，試圖對世界做點貢獻的平凡人類</h3>
+<h3 align="center">坐在電腦桌前，試圖對世界做點貢獻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalufishe&label=Profile%20views&color=0e75b6&style=flat" alt="dalufishe" /> </p>
 

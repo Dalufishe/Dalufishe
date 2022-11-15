@@ -1,10 +1,6 @@
 <h1 align="center">嗨 👋, 我是 Dalufishe</h1>
 <h3 align="center">坐在電腦桌前，試圖對世界做點貢獻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalufishe&label=Profile%20views&color=0e75b6&style=flat" alt="dalufishe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalufishe" alt="dalufishe" /></a> </p>
-
 - 🔭 目前致力於開發 **一個打字練習/競速網站**
 
 - 🌱 正在學習 **網頁框架，資料結構和演算法**
@@ -19,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalufishe&show_icons=true&locale=en&layout=compact" alt="dalufishe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalufishe&show_icons=true&locale=en" alt="dalufishe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalufishe&" alt="dalufishe" /></p>

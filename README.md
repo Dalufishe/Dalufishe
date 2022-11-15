@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalufishe&show_icons=true&locale=en" alt="dalufishe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalufishe&" alt="dalufishe" /></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalufishe&show_icons=true)

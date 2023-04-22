@@ -1,8 +1,6 @@
 ## 👋 嗨，這裡是Dalufishe :
 
 ---
-[![](https://visitcount.itsvg.in/api?id=e&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 #### 🔭 一個高二生😶，意外誕生的網頁全端開發者，熟悉 ES6 標準及 React 框架。
 

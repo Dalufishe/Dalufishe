@@ -1,6 +1,6 @@
 <h3 align="center">嗨，這裡是Dalufishe👋</h3>
 
-<h3 align="center">高二😶在程式汪洋中漫遊的一隻魚，你能在這裡找到我 <a href="http://discordapp.com/users/520869862650937364">點擊</a></h3>
+<h3 align="center">高二生😶在程式汪洋中漫遊的一隻魚，你能在這裡找到我 <a href="http://discordapp.com/users/520869862650937364">點擊</a></h3>
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 

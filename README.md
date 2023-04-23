@@ -37,8 +37,9 @@
  -->
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
  -->
- 
- ![snake](https://github.com/Dalufishe/Dalufishe/blob/output/github-contribution-grid-snake.gif)
+ <p align="center">
+ <img src="https://github.com/Dalufishe/Dalufishe/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 <p align="center">

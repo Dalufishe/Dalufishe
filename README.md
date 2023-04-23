@@ -4,14 +4,6 @@
 <h3 align="center">高二😶在程式汪洋中漫遊的一隻魚，你能在這裡找到我 <a href="http://discordapp.com/users/520869862650937364">點擊</a></h3>
 <br>
 
-
-#### 🔭 一個高二生，意外誕生的網頁全端開發者，熟悉 ES6 標準及 React 框架。
-
-#### 🌱 同時也在持續精進自己的程式能力，計劃深入遊戲開發、演算法、AI 等領域。
-
-## 💻技能樹
-
-#### 前端工程
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)

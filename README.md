@@ -1,7 +1,7 @@
 <h3 align="center">嗨，這裡是Dalufishe👋</h3>
 
 <br>
-<h3 align="center">高二😶在程式汪洋中漫遊的一隻魚，你能在這裡找到我 <a href="http://discordapp.com/users/520869862650937364">點擊這裡</a></h3>
+<h3 align="center">高二😶在程式汪洋中漫遊的一隻魚，你能在這裡找到我 <a href="http://discordapp.com/users/520869862650937364">點擊</a></h3>
 <br>
 
 

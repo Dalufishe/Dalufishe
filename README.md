@@ -41,5 +41,5 @@
  
 ---
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Dalufishe&icon=0&color=0)](https://visitcount.itsvg.in"/>
+<img src="https://visitcount.itsvg.in/api?id=Dalufishe&icon=0&color=0"/>
 </p>

@@ -24,7 +24,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dalufishe&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalufishe&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/> 
 </p>
 
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -39,14 +38,8 @@
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
  -->
  
- <p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img src="https://github.com/Dalufishe/Dalufishe/blob/output/github-contribution-grid-snake.gif"/>
-</picture>
-</p>
- 
+ ![snake](https://github.com/Dalufishe/Dalufishe/blob/output/github-contribution-grid-snake.gif)
+
 ---
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=Dalufishe&icon=0&color=0"/>

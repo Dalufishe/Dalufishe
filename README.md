@@ -2,7 +2,7 @@
 
 <h3 align="center">在程式汪洋中漫遊的一隻魚，你能在這裡找到我 <a href="http://discordapp.com/users/520869862650937364">點擊</a></h3>
 
-<h3 align="center">React / Next.js 開發者 / Java 新手🙆‍♀️</h3>
+<h3 align="center">React / Next.js / Vue.js / Node.js</h3>
 <br>
 
 <!-- banner -->

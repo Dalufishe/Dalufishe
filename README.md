@@ -10,6 +10,7 @@
 
 - 147 - 100 USD
 - ex嘎裡棒 - 50.8 USD
+- 帥哥 - 50 USD
 - 傻咩 - 31.75 USD
 - Daddy Shark - 31.75 USD
 - Hansel - 30 USD
@@ -41,6 +42,7 @@
 - @SmallYuan4 - 3 USD
 - 長長貓 - 3 USD
 - Ray - 2 USD
+- Devil - 1 USD
 - 高粱九 - 1 USD
 - 匿名贊助者 - 1 USD
 - 匿名贊助者 - 1 USD

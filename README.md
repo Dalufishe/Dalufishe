@@ -27,6 +27,9 @@
 - Someone - 10 USD
 - DomoHurts - 8 USD
 - Kuroko - 7 USD
+- 阿瑋阿瑋 - 5 USD
+- DONG - 5 USD
+- 🧃好喝 - 5 USD
 - Yamiae - 5 USD
 - Dexter - 5 USD
 - 瘋狗 -5 USD

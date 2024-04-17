@@ -4,16 +4,16 @@
 
 ### 長期支持者 (Membership)
 
-- 鶴鶴唷 -  (10 USD / 月)
+- 鶴鶴唷 - 10 USD / 月
 
 ### 一次性贊助 (Donate)
 
 - 喬治 - 143 USD
 - 147 - 100 USD
-- ex嘎裡棒 - 50.8 USD
+- ex嘎裡棒 - 66 USD
 - 帥哥 - 50 USD
-- 傻咩 - 31.75 USD
-- Daddy Shark - 31.75 USD
+- 傻咩 - 32 USD
+- Daddy Shark - 32 USD
 - Hansel - 30 USD
 - roy20001215 - 20 USD
 - 匿名贊助者 - 20 USD

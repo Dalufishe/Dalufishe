@@ -5,6 +5,7 @@
 ### 長期支持者 (Membership)
 
 - 鶴鶴唷 - 10 USD / 月
+- IANSUNG - 10 USD / 月
 
 ### 一次性贊助 (Donate)
 
@@ -18,6 +19,7 @@
 - roy20001215 - 20 USD
 - 匿名贊助者 - 20 USD
 - Winter - 19.05 USD
+- robin5968 - 10 USD
 - JasonH - 10 USD
 - RR - 10 USD
 - grag1023 - 10 USD
@@ -46,6 +48,7 @@
 - 701 - 3 USD
 - 長長貓 - 3 USD
 - Ray - 2 USD
+- powerdbb - 1 USD
 - Devil - 1 USD
 - 高粱九 - 1 USD
 - 匿名贊助者 - 1 USD

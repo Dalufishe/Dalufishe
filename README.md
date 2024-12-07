@@ -15,3 +15,8 @@
 - 目前有接網頁開發 / App 開發 / 桌面應用程式等開發業務，也有設計師能配合 UIUX 設計服務。詳細資訊可[點這查看](https://www.pro360.com.tw/service/520538)，或加我的 line (a5437988) 聯繫我詢問。
 
 - 熱愛文化創作，未來計畫進入遊戲產業發展，並規劃前往日本相關產業工作與進修。希望有一天能實現製作屬於自己的遊戲的夢想。
+
+---
+
+<a href="https://www.buymeacoffee.com/Dalufish"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Dalufish&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+

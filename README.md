@@ -6,7 +6,7 @@
 
 身為軟體開發者，我致力於以軟體解決現實問題，提供更便利的生活方式。我也把程式開發視為一種創作，期望作品不只好用，也能帶來美好的體驗與一些心靈上的滿足。
 
-- 現任 **NCUE GDGOC**（Google Developer Groups On Campus）De-Lead，負責規劃技術活動並推廣開發者社群文化。
+- 現任 **NCUE GDGoC**（Google Developer Groups On Campus）De-Lead，負責規劃技術活動並推廣開發者社群文化。
 
 - 專長 **Full Stack Web Development**，熟悉 JavaScript / TypeScript / React 生態系，並能開發 手機 App、桌面應用程式及各類自動化工具。
 
